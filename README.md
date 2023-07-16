@@ -1,0 +1,1 @@
+# Scratch for Next.js
